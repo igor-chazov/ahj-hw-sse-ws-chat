@@ -1,6 +1,6 @@
 # EventSource, Websockets
 
-[[Github Pages](https://igor-chazov.github.io/ahj-hw-sse-ws-chat)]
+[![Build status](https://ci.appveyor.com/api/projects/status/j2c2i54r8ee66t8w?svg=true)](https://ci.appveyor.com/project/igor-chazov/ahj-hw-sse-ws-chat) [[Github Pages](https://igor-chazov.github.io/ahj-hw-sse-ws-chat)]
 
 ---
 
